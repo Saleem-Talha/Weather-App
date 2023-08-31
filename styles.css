@@ -7,6 +7,9 @@
 
 body {
   background: #1f1f1f;
+  background-image: url("./assests/cloud-of-bunch-of-blue-sky-weather.jpg");
+  
+  background-size: fill;
 }
 
 .card {
