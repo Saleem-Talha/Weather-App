@@ -5,7 +5,7 @@ The Weather App is a beautifully crafted, user-friendly, and technologically adv
 
 ## Live Demo
 
-Explore the live demo of this To-Do List app  [Live Demo](https://saleem-talha.github.io/Weather-App/)
+Explore the live demo here  [Live Demo](https://saleem-talha.github.io/Weather-App/)
 
 # Key Features:
 
