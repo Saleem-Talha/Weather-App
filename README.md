@@ -3,6 +3,8 @@
 # Weather-App
 The Weather App is a beautifully crafted, user-friendly, and technologically advanced tool that provides up-to-the-minute weather information for cities across the globe. This innovative application is powered by JavaScript and harnesses the power of APIs to deliver accurate and timely weather updates.
 
+[Live Demo](https://saleem-talha.github.io/Weather-App/)
+
 # Key Features:
 
 - JavaScript-Powered: The app's core functionality is driven by JavaScript, a versatile and powerful programming language. JavaScript allows for smooth interactions, dynamic content, and real-time data updates, making the Weather App a truly dynamic experience.
